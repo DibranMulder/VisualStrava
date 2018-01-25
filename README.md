@@ -7,19 +7,21 @@ Based on https://github.com/marcusvolz/strava
 - Install R Studio
 - Install the required packages using the console
   - And others that pop up when you try to run the script.
-```bash
+```R
 install.packages(c("devtools", "mapproj", "tidyverse"))
 ```
-```bash
+```R
 devtools::install_github("marcusvolz/strava")
 ```
-```bash
+```R
 devtools::install_github("marcusvolz/ggart")
 ```
-```bash
+```R
 devtools::install_github("AtherEnergy/ggTimeSeries")
 ```
   
 - Select the entire script and press RUN
-  
+
+### Calendar
+
 ![map](https://github.com/DibranMulder/VisualStrava/blob/master/calendar001.png "Calendar map")
