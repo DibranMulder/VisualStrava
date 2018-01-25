@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="StravaGPX" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+ <metadata>
+  <time>2016-03-23T16:24:40Z</time>
+ </metadata>
+ <trk>
+  <name>Mislukte opname</name>
+  <trkseg>
+   <trkpt lat="52.1270260" lon="5.5711500">
+    <ele>7.2</ele>
+    <time>2016-03-23T16:24:40Z</time>
+   </trkpt>
+   <trkpt lat="52.1270490" lon="5.5710560">
+    <ele>7.4</ele>
+    <time>2016-03-23T16:24:41Z</time>
+   </trkpt>
+   <trkpt lat="52.1270750" lon="5.5709580">
+    <ele>7.7</ele>
+    <time>2016-03-23T16:24:42Z</time>
+   </trkpt>
+   <trkpt lat="52.1270930" lon="5.5708630">
+    <ele>7.9</ele>
+    <time>2016-03-23T16:24:43Z</time>
+   </trkpt>
+   <trkpt lat="52.1271060" lon="5.5707700">
+    <ele>8.1</ele>
+    <time>2016-03-23T16:24:44Z</time>
+   </trkpt>
+   <trkpt lat="52.1271060" lon="5.5707700">
+    <ele>8.1</ele>
+    <time>2016-03-23T16:24:45Z</time>
+   </trkpt>
+   <trkpt lat="52.1265680" lon="5.5859240">
+    <ele>9.8</ele>
+    <time>2016-03-23T17:42:36Z</time>
+   </trkpt>
+   <trkpt lat="52.1265860" lon="5.5858440">
+    <ele>9.7</ele>
+    <time>2016-03-23T17:42:36Z</time>
+   </trkpt>
+   <trkpt lat="52.1266130" lon="5.5857750">
+    <ele>9.7</ele>
+    <time>2016-03-23T17:42:37Z</time>
+   </trkpt>
+   <trkpt lat="52.1266380" lon="5.5857040">
+    <ele>9.6</ele>
+    <time>2016-03-23T17:42:38Z</time>
+   </trkpt>
+   <trkpt lat="52.1266560" lon="5.5856420">
+    <ele>9.6</ele>
+    <time>2016-03-23T17:42:39Z</time>
+   </trkpt>
+   <trkpt lat="52.1266820" lon="5.5855640">
+    <ele>9.6</ele>
+    <time>2016-03-23T17:42:40Z</time>
+   </trkpt>
+   <trkpt lat="52.1267020" lon="5.5854910">
+    <ele>9.6</ele>
+    <time>2016-03-23T17:42:41Z</time>
+   </trkpt>
+   <trkpt lat="52.1267310" lon="5.5854200">
+    <ele>9.6</ele>
+    <time>2016-03-23T17:42:42Z</time>
+   </trkpt>
+   <trkpt lat="52.1267310" lon="5.5854200">
+    <ele>9.6</ele>
+    <time>2016-03-23T17:42:42Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+</gpx>
