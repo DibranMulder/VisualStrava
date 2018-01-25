@@ -58,5 +58,5 @@ p <- ggplot_calendar_heatmap(daily_data, "time", "dist_scaled",
   theme(strip.text = element_text(), axis.ticks = element_blank(), legend.position = "bottom")
 
 # Save plot
-ggsave("calendar001.png", p, width = 30, height = 30, units = "cm", dpi = 300)
+ggsave("calendar001.png", p, width = 30, height = 10, units = "cm", dpi = 300)
 
